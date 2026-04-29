@@ -8,4 +8,4 @@ function divide(a, b) {
     return a / b;
 }
 
-GPUShaderModule.exports = { multiply, divide };
+module.exports = { multiply, divide };
